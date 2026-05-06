@@ -1,0 +1,17 @@
+{
+  "growth_campaign": {
+    "name": "增长活动",
+    "description": "适用于拉新、促活、召回、复购等运营活动。",
+    "steps": ["strategy", "copywriting", "risk_review", "analytics"]
+  },
+  "content_calendar": {
+    "name": "内容排期",
+    "description": "适用于公众号、短视频、社群、小红书等内容运营计划。",
+    "steps": ["strategy", "copywriting", "risk_review", "analytics"]
+  },
+  "competitor_watch": {
+    "name": "竞品监控",
+    "description": "适用于竞品活动观察、卖点提炼和应对策略制定。",
+    "steps": ["strategy", "analytics"]
+  }
+}
